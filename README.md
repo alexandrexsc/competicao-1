@@ -1,2 +1,2 @@
 # Competicao-1
-Notebooks Python
+Criar um modelo preditivo para cobertura de um plano de saúde
